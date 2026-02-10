@@ -1,4 +1,4 @@
-RU https://andr2d2-js.github.io/Myteam/
+RU https://roza-vetrov.github.io/MyTeam/
 
 MyTeam — адаптивный сайт-визитка компании, разработанный с нуля с использованием HTML, CSS и JavaScript.
 
